@@ -12,6 +12,12 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 - [Sass][sass]
 - [Typescript][typescript]
 
+## 📷 Screenshots
+
+<kbd>
+  <img src=".github/screenshot.png" alt="react-responsive-table" width="500" />
+</kbd>
+
 [channel]: https://www.youtube.com/channel/UCS2UjgEPEybOx1toY7aKRJg
 [react]: https://reactjs.org/
 [sass]: https://sass-lang.com/
